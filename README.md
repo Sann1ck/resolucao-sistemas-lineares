@@ -16,6 +16,11 @@ identificando automaticamente o tipo de sistema e apresentando a solução forma
 ---
 
 ## 🧮 Exemplo de uso
+```
+ 2x +  y + z = 8
+-3x + -y + 2z = -11
+-2x +  y + 2z = -3
+```
 
 ### Entrada (`entrada.txt`):
 ```
